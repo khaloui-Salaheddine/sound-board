@@ -1,6 +1,6 @@
 # Sound Board
 
-![cover](./image.jpg)
+![cover](./image.png)
 
 ## 🦉 Main information
 
