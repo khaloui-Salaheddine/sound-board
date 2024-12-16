@@ -4,7 +4,7 @@
 
 ## 🦉 Main information
 
-Simple sound board built using HTML audio tag and Vanilla Js.
+Simple sound board built using HTML audio tag and  Js.
 
 The project goal:
 - when a user clicks a button, it makes a sound effect
